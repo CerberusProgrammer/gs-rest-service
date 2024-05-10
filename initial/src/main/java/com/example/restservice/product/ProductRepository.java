@@ -1,4 +1,4 @@
-package com.example.restservice;
+package com.example.restservice.product;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

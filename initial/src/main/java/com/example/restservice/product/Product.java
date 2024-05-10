@@ -1,4 +1,4 @@
-package com.example.restservice;
+package com.example.restservice.product;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
